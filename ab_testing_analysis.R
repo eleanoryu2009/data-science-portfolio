@@ -28,3 +28,7 @@ ggplot(data.frame(diff=bootstrap_diffs), aes(x=diff))+
 # 5. Statistical Insights
 # The red dashed lines represent the 95% Confidence Interval
 # Since the entire interval is above zero, we can conclude that the new UI(group B) has a statistically significant higher conversion rate than the old UI(group A).
+# 6. Statistical Rigor Note
+# While the bootstrap method provides a robust estimation, we must acknowledge that this simulation assumes independent observations.
+# In a real-world business scenario, factors like repeated user visits or seasonal trends could introduce bias.
+# Therefore, future analyses should incorporate stratification techniques to control for these confounding variables.
