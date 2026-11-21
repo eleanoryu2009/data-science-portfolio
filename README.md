@@ -18,13 +18,13 @@ My academic interests lie at the intersection of Statistics, Economics, and Busi
 ### 3. A/B Testing & Bootstrapping (R/Statistical Inference)
 -Methodology: Simulated A/B test; used 1000 Bootstrap resamples to calculate the 95% Confidence Interval.
 -Insight: Confirmed the statistical significance of the new UI's higher conversion rate.
--Code & Chart: [View code](./ab_testing_analysis.R)|[View Chart](./ab_testing_plot.png)
+-Code & Chart: [View code](./ab_testing_analysis.R) | [View Chart](./ab_testing_plot.png)
 ### 4. E-commerce Discount Strategy (R/Business Analytics)
 -Methodology: Feature engineering on discount tiers; visualized net revenue volatility using Boxplots.
 -Insight: Deep discounts increase revenue volatility. Recommended targeted promotions to protect margins. 
--Code & Chart: [View code](./ecommerce_discount_analysis.R|[View Chart](./discount_analysis_plot.png)
+-Code & Chart: [View code](./ecommerce_discount_analysis.R | [View Chart](./discount_analysis_plot.png)
 -Report: [Read Detailed Business Report](./Ecommerce_Report.md)
 ### 5. Macroeconomic Trends (R/Economics)
 -Methodology: Aggregated monthly data into annual trends; visualized Consumption vs. Unemployment.
 -Insight: Unemployment shows cyclical fluctuations with delayed peaks during recessions (e.g. 2008 Crisis).
--Code & Chart: [View Code](./macroeconomic_trends_analysis.R)|[View Chart](./macroeconomic_chart.png)
+-Code & Chart: [View Code](./macroeconomic_trends_analysis.R) | [View Chart](./macroeconomic_chart.png)
